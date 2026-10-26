@@ -6,7 +6,9 @@ Resona controls an existing Roon Server on your network from a native Linux desk
 
 ## Download
 
-[Resona v0.8.0-alpha.5 — Linux x86_64](https://github.com/Tante-Diazepam/Resona/releases/tag/v0.8.0-alpha.5)
+[View Linux x86_64 releases](https://github.com/Tante-Diazepam/Resona/releases)
+
+If no release is listed, the installer has not been published yet. The files below describe the planned v0.8.0-alpha.5 release.
 
 Choose one of these files from the release's **Assets** section:
 
